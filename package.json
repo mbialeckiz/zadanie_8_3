@@ -1,0 +1,22 @@
+{
+  "name": "kodilla_zadanie_8_3",
+  "version": "1.0.0",
+  "description": "8_3 grunt project",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "kodilla-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Marcin Bialecki",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0"
+  }
+}
